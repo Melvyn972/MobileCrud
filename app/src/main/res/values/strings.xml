@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MobileCrud</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="telephone_hint">Telephone</string>
+    <string name="adresse_hint">Adresse</string>
+    <string name="ville_hint">Ville</string>
+    <string name="code_postal_hint">Code postal</string>
+    <string name="pays_hint">Pays</string>
+    <string name="date_naissance_hint">Date de naissance</string>
+    <string name="genre_hint">Genre</string>
+    <string name="photo_hint">Photo</string>
+    <string name="role_hint">Role</string>
+    <string name="add_button_text">Ajouter</string>
+</resources>
